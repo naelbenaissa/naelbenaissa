@@ -1,5 +1,5 @@
 <h1 align="center">Salut, moi c'est Na'el Benaïssa</h1>
-<h3 align="center">Je suis passionnée par le développement.</h3>
+<h3 align="center">Je suis passionné par le développement.</h3>
 
 - 🌱 Je développe actuellement mes compétences en **Java et Laravel**
 
