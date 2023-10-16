@@ -3,7 +3,7 @@
 
 - 🌱 Je développe actuellement mes compétences en **Java et Laravel**
 
-- 👨‍💻 Tous mes projets sont disponibles sur [www.portfolio-nbena.fr](www.portfolio-nbena.fr)
+//- 👨‍💻 Tous mes projets sont disponibles sur [www.portfolio-nbena.fr](www.portfolio-nbena.fr)
 
 - 📫 Vous pouvez me contacter via l'adresse e-mail suivante : **naelbenaissapro@gmail.com**
 
