@@ -1,7 +1,5 @@
 <h1 align="center">Salut, moi c'est Na'el Benaïssa</h1>
-<h3 align="center">Passionné de développement, créatif de nature
-
-</h3>
+<h3 align="center">Passionné de développement, créatif de nature</h3>
 
 - 🌱 Je développe actuellement mes compétences en **Java et Laravel**
 
