@@ -3,7 +3,10 @@
 
 - 🌱 Je développe actuellement mes compétences en **Angular, Java et Laravel**
 
-- 📫 Vous pouvez me contacter via l'adresse e-mail suivante : **naelbenaissapro@gmail.com**
+- 👨‍💻 Actuellement à la recherche d'un stage en développement d'application web et/ou de logiciel pour les périodes allant du 8 janvier au 16 février 2024.
+
+- 📫 Vous pouvez me contacter via l'adresse e-mail suivante : **naelbenaissapro@gmail.com*
+
 
 <h3 align="left">Mes réseaux :</h3>
 <p align="left">
