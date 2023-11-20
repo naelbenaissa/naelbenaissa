@@ -1,7 +1,7 @@
 <h1 align="center">Salut, moi c'est Na'el Benaïssa</h1>
 <h3 align="center">Passionné de développement, créatif de nature</h3>
 
-- 🌱 Je développe actuellement mes compétences en **Java et Laravel**
+- 🌱 Je développe actuellement mes compétences en **Angular, Java et Laravel**
 
 - 📫 Vous pouvez me contacter via l'adresse e-mail suivante : **naelbenaissapro@gmail.com**
 
