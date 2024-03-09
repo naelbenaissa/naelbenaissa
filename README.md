@@ -1,9 +1,9 @@
 # Hello, I'm Na'el! 👋
-<h3 align="center">Passionné de développement, créatif de nature</h3>
+<h3 align="center">Passionate about development, creative by nature</h3>
 
-- 🧑‍🎓 Je développe actuellement mes compétences en **Angular, Kotlin, et Laravel**
+- 🧑‍🎓 I am currently developing my skills in **Angular, Kotlin and Laravel**
 
-- 📫 Vous pouvez me contacter via l'adresse e-mail suivante : *naelbenaissapro@gmail.com*
+- 📫 You can contact me via the following email address : *naelbenaissapro@gmail.com*
 
 ## 🔗 My Networks
 [![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://naelbenaissa.com/)
