@@ -5,11 +5,10 @@
 
 - 📫 Vous pouvez me contacter via l'adresse e-mail suivante : *naelbenaissapro@gmail.com*
 
-<h3 align="left">Mes réseaux :</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nael-benaissa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="na'el benaïssa" height="30" width="40" /></a>
-  <a href="https://instagram.com/nael.69bns" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nael.69bns" height="30" width="40" /></a>
-</p>
+## 🔗 My Networks
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://naelbenaissa.com/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nael-benaissa/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
 <h3 align="left">Langues et outils :</h3>
 <p align="left"> 
