@@ -25,6 +25,7 @@
 </li>
 </ul>
 </p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nbena69&show_icons=true&locale=en&layout=compact" alt="nbena69" />
