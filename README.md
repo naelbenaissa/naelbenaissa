@@ -10,7 +10,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nael-benaissa/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-<img src="https://raw.githubusercontent.com/nbena69/nbena69/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/nbena69/nbena69/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 ## Tech Stack
 <p align="left"> 
