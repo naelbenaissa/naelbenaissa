@@ -12,6 +12,7 @@
 
 ##
 <img src="https://github.com/nbena69/nbena69/blob/main/github-user-contribution.svg" alt="Snake animation" />
+
 ##
 
 ## Tech Stack
