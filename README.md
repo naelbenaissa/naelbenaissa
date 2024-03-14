@@ -6,15 +6,14 @@
 - 📫 You can contact me via the following email address : *naelbenaissapro@gmail.com*
 
 ## 🌐 My Networks
-[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://naelbenaissa.fr/)
+[![Portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)]()
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nael-benaissa/)
 
-##
 <img src="https://github.com/nbena69/nbena69/blob/main/github-user-contribution.svg" alt="Snake animation" />
 
 ##
 
-## Tech Stack
+## 🛠️ Tech Stack
 <p align="left"> 
   <ul>
     <li> Languages:<br>
