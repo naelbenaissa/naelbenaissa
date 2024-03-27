@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/nbena69/nbena69/blob/main/PHOTO-GITHUB.png">
+  <img src="https://github-readme-stats.vercel.app/api?username=nbena69&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+</div>
+
 # Hello, I'm Na'el! 👋
 <h3 align="center">Passionate about development, creative by nature</h3>
 
