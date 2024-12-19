@@ -6,7 +6,7 @@
 # Hello, I'm Na'el! 👋
 <h3 align="center">Passionate about development, creative by nature</h3>
 
-- 🧑‍🎓 I am currently developing my skills in **Flutter and Unreal Engine**
+- 🧑‍🎓 I am currently developing my skills in **Flutter and Python**
 
 - 📫 You can contact me via the following email address : *naelbenaissapro@gmail.com*
 
