@@ -8,6 +8,8 @@
 
 - 🧑‍🎓 I am currently developing my skills in **Flutter and Python**
 
+- 🚀 I have a growing passion for exploring Artificial Intelligence and Machine Learning
+
 - 📫 You can contact me via the following email address : *naelbenaissapro@gmail.com*
 
 ## 🌐 My Networks
