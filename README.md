@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/nbena69/nbena69/blob/main/PHOTO-GITHUB.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbena69&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naelbenaissa&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" height="200" alt="stats graph"  />
 </div>
 
 # Hello, I'm Na'el! 👋
